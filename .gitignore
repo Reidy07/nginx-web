@@ -1,0 +1,8 @@
+# Ignora archivos generados por Docker
+**/node_modules
+**/dist
+**/*.log
+
+# Ignora archivos del sistema
+.DS_Store
+*.swp
